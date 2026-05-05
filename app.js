@@ -57,7 +57,7 @@ const regionImpactBySpecies = {
 
 const territoryDescriptions = {
   "Alabama": {
-    cultural_context: "The Alabama people are part of the deep Indigenous history of the Gulf South, with homelands tied to river corridors, trade, diplomacy, and community life across what is now Alabama and nearby regions. Their territorial presence reflects long-standing relationships to forests, floodplains, and the seasonal movement of people, foodways, and ceremony.",
+    cultural_context: "The Alabama-Coushatta people are part of the deep Indigenous history of the Gulf South, with homelands tied to river corridors, trade, diplomacy, and community life across what is now Alabama and nearby regions. They were historically rooted in present-day Alabama before migrating to modern-day East Texas, where they are the oldest reservation in the state. Their territorial presence reflects long-standing relationships to forests, floodplains, and the seasonal movement of people, foodways, and ceremony. Though they are separate tribes, the Alabamas and Coushattas have been closely associated throughout their history.",
     environmental_context: "In this region, invasive plants can alter bottomland forests, riparian areas, and open woodland systems that historically supported diverse plant gathering, hunting, and travel routes. Changes to water flow, understory structure, and native biodiversity can reduce ecological resilience across culturally significant landscapes."
   },
   "Biloxi": {
