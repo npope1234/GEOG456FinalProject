@@ -121,7 +121,7 @@ const territoryDescriptions = {
     environmental_context: "In Pamunkey-associated landscapes, invasive species can alter wetlands, tidal rivers, and riparian forests by outcompeting native plants and changing habitat for fish, birds, and pollinators. These shifts can affect watershed health and the ecological continuity of river-centered cultural places."
   },
   "Quapaw": {
-    cultural_context: "The Quapaw are associated with Mississippi River and Arkansas-connected homelands where waterways shaped movement, trade, diplomacy, and settlement. Their territorial presence reflects deep ties to floodplain environments and interconnected river cultures.",
+  cultural_context: "The Quapaw are associated with Mississippi River and Arkansas-connected homelands where waterways shaped movement, trade, diplomacy, and settlement. The tribal name "Quapaw" means "downstream people" in their native language, and reflects their connection to the land and the importance of rivers water to their way of life. Their territorial presence reflects deep ties to floodplain environments and interconnected river cultures.",
     environmental_context: "In Quapaw-associated areas, invasive species can alter floodplain forests, river margins, and wet lowlands by limiting native plant regeneration and simplifying habitat structure. These changes can affect water quality, wildlife use, and the resilience of river-based ecosystems."
   },
   "Saponi": {
